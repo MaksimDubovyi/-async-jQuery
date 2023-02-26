@@ -1,0 +1,30 @@
+
+.flex-container {
+    display: flex;
+    width: 80%;
+    flex-wrap: wrap-reverse;
+    border: 0px;
+    margin-left: 100px;
+    flex-direction: row;
+}
+.flex-item {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.flextem {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 300px;
+}
+h2{font-size: 20px;}
+table{ margin-left: 100px;  border: 1px solid black;  border-collapse: collapse;}
+.td1{margin: 0; padding: 0px; border: 1px solid black; width: 200px; text-align: center;}
+.td2{margin: 0; padding: 3px; border: 1px solid black; width: 400px;}
+ p{margin: 5px; }
+.but{width: 600px; margin-left: 100px; margin-top: 30px; margin-bottom: 50px; background-color: greenyellow; }
